@@ -1,2 +1,3 @@
 # youtube-banner
-simple way to get any youtube banner with a simple two clicks
+It's pretty simple, the script loads, you right click on any banner, and then click on getbanner,
+then it will open a banner in the best quality.
