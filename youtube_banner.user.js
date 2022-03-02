@@ -8,7 +8,10 @@
 // @icon         https://www.google.com/s2/favicons?domain=youtube.com
 // @grant        none
 // ==/UserScript==
-
+/*
+TODO:
+- be able to do same thing with youtube video that are still not loaded
+*/
 let load_bank=[];
 console.log("[*] Waiting for page to load...");
 let i=0;
