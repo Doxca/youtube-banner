@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         youtube banner
-// @namespace    https://github.com/Doxca/youtube-banner
+// @namespace    https://github.com/Endxca/youtube-banner
 // @version      0.1
 // @description  simply help you to get a youtube banner
-// @author       Doxca
+// @author       Ender
 // @match        https://www.youtube.com/*
 // @icon         https://www.google.com/s2/favicons?domain=youtube.com
 // @grant        none
